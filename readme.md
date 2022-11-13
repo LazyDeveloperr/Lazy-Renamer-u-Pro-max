@@ -7,6 +7,30 @@
  <b><a href="https:/telegram.me/LazyDeveloper" target="/blank"> Lazy Renamer ultra-Pro-max </a></>
 </h1>
 
+<p align="center">  </p>
+
+
+### DEPLOYEMENT SUPPORT
+
+<details><summary>Deploy To Heroku</summary>
+<p>
+<br>
+<a href="https://heroku.com/deploy?template=https://github.com/TEAM-PYRO-BOTZ/PYRO-RENAME-BOT">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+</a>
+</p>
+</details>
+
+
+<details><summary>Deploy To Railway</summary>
+<p>
+<br>
+<a href="https://railway.app/new/template/OX7-wG">
+  <img src="https://railway.app/button.svg" alt="Deploy">
+</a>
+</p>
+</details>
+
 # Features
  - Auto Rename files with the help of filters.
  - Permanent Thumbnail support.
@@ -16,80 +40,56 @@
  - Track user activity.
  - Force join for the user for use.
 
-# Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/LazyDeveloperr/Lazy-Renamer-u-Pro-max)
+## Configs 
 
-# Filters Explained
-Filter can be added using the /filter.
-- ## Addition Filter
-  - This filter will add the given text to the left or right of the file name.
-- ## Remove Filter
-  - This filter will remove the given text if it is present at all in the file name.
-- ## Replace
-  - This filter will replace the specific text with the new text.
+* `BOT_TOKEN`  - Get bot token from @BotFather
 
-# Variables
+* `API_ID` - From my.telegram.org 
 
-update the config.py file inside the MeshRenameBot to change the config and commands.
+* `API_HASH` - From my.telegram.org 
 
-`DB_URI` - Database URL. Mongo or Postgres DB URL.
+* `ADMIN` - AUTH or bot controllers id's multiple id use space to split 
 
-`API_HASH` - Telegram API HASH.
+* `DB_URL`  - Mongo Database URL from https://cloud.mongodb.com/
 
-`API_ID` - Telegram API ID.
+* `DB_NAME`  - Your database name from mongoDB. Default will be 'my'
 
-`BOT_TOKEN` - Bot token. Get from bot father.
+* `FORCE_SUB` - your force sub channel username without @ 
 
-`COMPLETED_STR` - Completed symbol marker.
+* `START_PIC` - start message photo
 
-`REMAINING_STR` - Remaining symbol marker.
-
-`MAX_QUEUE_SIZE` - Max simultaneous renames. 5 is recommended can be increased.
-
-`SLEEP_SECS` - Seconds to sleep before edit. 10 is recommended can be increased.
-
-`IS_PRIVATE` - Is the bot for private use.
-
-`AUTH_USERS` - ID of the users that are allowed to use the bot. It works only when `IS_PRIVATE` is True.
-
-`OWNER_ID` - ID of the owner.
-
-`FORCEJOIN` - Enter the public username url or invite link of private chat for that the user should join chat. Keep blank to disable.
-
-`FORCEJOIN_ID` - ID of the chat for which is specified in `FORCEJOIN`.
-
-`TRACE_CHANNEL` - ID of the channel to which the track of the uses is sent who are using the bot. Put 0 for no tracking.
-
-# Commands
+## Commands
 `/start` - Check if the bot is running.
 
-`/rename` - Reply to media to rename `/rename filename.extension`. If only `/rename` is used filters will be used.
+`/viewthumb` - To view current thumbnail.
 
-`/filters` - Add/Remove Filters.
+`/delthumb` - To delete current thumbnail.
 
-`/setthumb` - Reply to image to set the thumbnail permanently.
+`/set_caption` - set a custom caption.
 
-`/getthumb` - Get the thumbnail which is currently set.
+`/see_caption` - see your custom caption.
 
-`/clrthumb` - Remove the thumbnail which is set.
+`/del_caption` - delete custom caption.
 
-`/mode` - Change between 3 modes:-
-- Same format as it was sent. [If doc is sent doc is uploaded if video is sent video is uploaded.]
-- Force to Document. [Everything is uploaded as a file.]
-- Upload general media. [In streamable video/audio. etc.]
+`/users` - To view list of users, using BOT [FOR ADMINS USE ONLY]
 
-`/queue` - Gives the state of your rename and the load on bot.
+`/broadcast` - Message Broadcast command [FOR ADMINS USE ONLY].
 
-
-- [Create Auto Filter BOT](https://www.youtube.com/watch?v=jw3e4L1u-Vo&t=22s)
-- [Create Movie Website](https://www.youtube.com/watch?v=h3Uvr15ZPnc)
-- [Create Movie Request BOT](https://www.youtube.com/watch?v=mIEv7MjLj2U&t=38s)
-- [Join Youtube](https://www.youtube.com/channel/UCY-iDra0x2hdd9PdHKcZkRw)
+# important_Links
+- [🤩 Create Auto Filter BOT](https://www.youtube.com/watch?v=jw3e4L1u-Vo&t=22s)
+- [🤩 Create Movie Website](https://www.youtube.com/watch?v=h3Uvr15ZPnc)
+- [🤩 Create Movie Request BOT](https://www.youtube.com/watch?v=mIEv7MjLj2U&t=38s)
+- [❣️ Join Youtube](https://www.youtube.com/channel/UCY-iDra0x2hdd9PdHKcZkRw)
 
 
 # Credits
+- [🔥 LazyDeveloperr](https://github.com/LazyDeveloperr) 
+- [🔥 Pyrogram](https://github.com/pyrogram/pyrogram)
 
-- [LazyDeveloperr](https://github.com/LazyDeveloperr) 
-- [Pyrogram](https://github.com/pyrogram/pyrogram)
+
+## 🤩 INSPIRATION
+<a href="#">
+   <p>❣️ Still Not found 🔥</p>
+</a>
 
