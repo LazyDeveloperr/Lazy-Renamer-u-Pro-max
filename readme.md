@@ -7,31 +7,10 @@
  <b><a href="https:/telegram.me/LazyDeveloper" target="/blank"> Lazy Renamer ultra-Pro-max </a></>
 </h1>
 
-<p align="center">  </p>
+<p align="center"> Thanks for Being Here </p>
 
 
-### DEPLOYEMENT SUPPORT
-
-<details><summary>Deploy To Heroku</summary>
-<p>
-<br>
-<a href="https://heroku.com/deploy?template=https://github.com/TEAM-PYRO-BOTZ/PYRO-RENAME-BOT">
-  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
-</a>
-</p>
-</details>
-
-
-<details><summary>Deploy To Railway</summary>
-<p>
-<br>
-<a href="https://railway.app/new/template/OX7-wG">
-  <img src="https://railway.app/button.svg" alt="Deploy">
-</a>
-</p>
-</details>
-
-# Features
+# 🥰 Features
  - Auto Rename files with the help of filters.
  - Permanent Thumbnail support.
  - 3 Different upload modes.
@@ -41,7 +20,7 @@
  - Force join for the user for use.
 
 
-## Configs 
+## ⚡️ Configs 
 
 * `BOT_TOKEN`  - Get bot token from @BotFather
 
@@ -59,7 +38,7 @@
 
 * `START_PIC` - start message photo
 
-## Commands
+## 🚦 Commands
 `/start` - Check if the bot is running.
 
 `/viewthumb` - To view current thumbnail.
@@ -75,8 +54,20 @@
 `/users` - To view list of users, using BOT [FOR ADMINS USE ONLY]
 
 `/broadcast` - Message Broadcast command [FOR ADMINS USE ONLY].
+  
+  ### 📶 DEPLOYEMENT SUPPORT
 
-# important_Links
+<details><summary>♓️ Deploy To Heroku</summary>
+<p>
+<br>
+<a href="https://heroku.com/deploy?template=https://github.com/LazyDeveloperr/Lazy-Renamer-u-Pro-max">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+</a>
+</p>
+</details>
+
+
+# 🔗 important_Links
 - [🤩 Create Auto Filter BOT](https://www.youtube.com/watch?v=jw3e4L1u-Vo&t=22s)
 - [🤩 Create Movie Website](https://www.youtube.com/watch?v=h3Uvr15ZPnc)
 - [🤩 Create Movie Request BOT](https://www.youtube.com/watch?v=mIEv7MjLj2U&t=38s)
