@@ -1,3 +1,7 @@
+<p align='center' >
+  <img src="https://telegra.ph/file/c1407b2febcc40694d765.png" alt="Lazy Renamer u-Pro-max" />
+  Lazy Renamer u-Pro-max
+</p>
 # Lazy Renamer u-Pro-max
 
 This bot has a concept of filters which allows to auto-rename the files. This bot is aimed to be the best rename bot around. 
