@@ -1,0 +1,48 @@
+{
+    "name": "Lazy Renamer ultra-Pro-max",
+    "description": "Telegram File Renamer Bot ",
+    "logo": "https://telegra.ph/file/c1407b2febcc40694d765.png",
+    "keywords": ["Renamer Bot", "Mongo DB"],    
+    "repository": "https://github.com/LazyDeveloperr/Lazy-Renamer-u-Pro-max",
+    "env": {
+        "API_ID": {
+            "description": "Your APP ID From my.telegram.org ",
+            "value": ""
+        },
+        "API_HASH": {
+            "description": "Your API Hash From my.telegram.org ",
+            "value": ""
+        },
+        "FORCE_SUB": {
+            "description": "Your force sub channel user name without [@] ",
+            "value": "",
+            "required": false 
+        },
+        "BOT_TOKEN": {
+            "description": "Your Bot Token From @BotFather",
+            "value": ""
+        },
+        "ADMIN": {
+            "description":"Add Your User ID multiple is use space to split"
+        },
+        "DB_URL": {
+            "description": "Your Mongo DB URL Obtained From mongodb.com",
+            "value": ""
+        },
+        "DB_NAME":{ 
+            "description":"Your Mongo DB Database Name ",
+            "value": "",
+            "required": false
+        },
+        "START_PIC": {
+            "description": "Your Bot start pic",
+            "value": "",
+            "required": false
+        }
+    },
+    "buildpacks": [
+        {
+            "url": "heroku/python"
+        }
+    ]
+}
