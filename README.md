@@ -10,7 +10,7 @@
 <p align="center"> Thanks for Being Here </p>
 
 
-# 🥰 Features
+#### 🥰 Features
  - Renames very fast .
  - Permanent Thumbnail support.
  - Force join for the user for use.
@@ -21,7 +21,7 @@
  - Supports ulimited renaming at a time.
  - Developer Service 24x7. 🔥
 
-## ⚡️ Configs 
+### ⚡️ Configs 
 
 * `BOT_TOKEN`  - Get bot token from @BotFather
 
@@ -39,7 +39,7 @@
 
 * `START_PIC` - start message photo
 
-## 🚦 Commands
+### 🚦 Commands
 `/start` - Check if the bot is running.
 
 `/viewthumb` - To view current thumbnail.
@@ -68,19 +68,19 @@
 </details>
 
 
-# 🔗 important_Links
+### 🔗 important_Links
 - [🤩 Create Auto Filter BOT](https://www.youtube.com/watch?v=jw3e4L1u-Vo&t=22s)
 - [🤩 Create Movie Website](https://www.youtube.com/watch?v=h3Uvr15ZPnc)
 - [🤩 Create Movie Request BOT](https://www.youtube.com/watch?v=mIEv7MjLj2U&t=38s)
 - [❣️ Join Youtube](https://www.youtube.com/channel/UCY-iDra0x2hdd9PdHKcZkRw)
 
 
-## 🧡 Respecting... 🧡
+### 🧡 Respecting... 🧡
 - [🔥 LazyDeveloperr](https://github.com/LazyDeveloperr) 
 - [🔥 Pyrogram](https://github.com/pyrogram/pyrogram)
 
 
-## 🤩 INSPIRATION
+### 🤩 INSPIRATION
 <a href="#">
    <p>❣️ Still Not found 🔥</p>
 </a>
