@@ -25,6 +25,6 @@ async def refunc(client, message):
        elif file.media == MessageMediaType.AUDIO:
            button.append([InlineKeyboardButton("🎵 𝙰𝚄𝙳𝙸𝙾",callback_data = "upload_audio")])
        await message.reply_text(
-          f"**Select the output file type**\n**• Lazy File Name :-**\n\n```{new_name}```\n\n",
+          f"**Select the output file type**\n**• Lazy File Name :-**\n```{new_name}```\n\n",
           reply_to_message_id=file.id,
           reply_markup=InlineKeyboardMarkup(button))
