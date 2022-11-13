@@ -7,7 +7,7 @@
  <b><a href="https:/telegram.me/LazyDeveloper" target="/blank"> Lazy Renamer ultra-Pro-max </a></>
 </h1>
 
-<p align="center"> Thanks for Being Here </p>
+<p align="center">🤍 Thanks for Being Here 🤍</p>
 
 
 # 🥰 Features
