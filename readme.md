@@ -2,7 +2,7 @@
   <img src="https://telegra.ph/file/c1407b2febcc40694d765.png" alt="Lazy Renamer u-Pro-max" />
 </p>
 <p align="center">
-  ## <a href="https:/telegram.me/LazyDeveloper" target="/blank"> Lazy Renamer ultra-Pro-max </a>
+ **#** <a href="https:/telegram.me/LazyDeveloper" target="/blank"> Lazy Renamer ultra-Pro-max </a>
 </p>
 
 This bot has a concept of filters which allows to auto-rename the files. This bot is aimed to be the best rename bot around. 
