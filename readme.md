@@ -3,9 +3,9 @@
 </p>
 
 
-# <p align="center">
- <big><a href="https:/telegram.me/LazyDeveloper" target="/blank"> Lazy Renamer ultra-Pro-max </a></big>
-</p>
+<h1 align="center">
+ <b><a href="https:/telegram.me/LazyDeveloper" target="/blank"> Lazy Renamer ultra-Pro-max </a></>
+</h1>
 
 # Features
  - Auto Rename files with the help of filters.
