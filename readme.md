@@ -11,14 +11,15 @@
 
 
 # 🥰 Features
- - Auto Rename files with the help of filters.
+ - Renames very fast .
  - Permanent Thumbnail support.
- - 3 Different upload modes.
- - Queue implement to maintain consistent speed across rename tasks.
- - Supports both Mongo and Postgres DB.
- - Track user activity.
  - Force join for the user for use.
-
+ - Supports Broadcasts.
+ - Set custom caption.
+ - Has a custom Start-up pic.
+ - Force subscribe available.
+ - Supports ulimited renaming at a time.
+ - Developer Service 24x7. 🔥
 
 ## ⚡️ Configs 
 
