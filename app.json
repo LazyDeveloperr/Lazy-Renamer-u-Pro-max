@@ -2,7 +2,7 @@
     "name": "Lazy Renamer ultra-Pro-max",
     "description": "Telegram File Renamer Bot ",
     "logo": "https://telegra.ph/file/c1407b2febcc40694d765.png",
-    "keywords": ["Renamer Bot", "Mongo DB"],    
+    "keywords": ["Lazy Renamer ultra-Pro-max", "Mongo DB"],    
     "repository": "https://github.com/LazyDeveloperr/Lazy-Renamer-u-Pro-max",
     "env": {
         "API_ID": {
@@ -23,7 +23,8 @@
             "value": ""
         },
         "ADMIN": {
-            "description":"Add Your User ID multiple is use space to split"
+            "description":"Add Your User ID multiple is use space to split",
+            "value": ""
         },
         "DB_URL": {
             "description": "Your Mongo DB URL Obtained From mongodb.com",
