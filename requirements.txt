@@ -1,9 +1,0 @@
-pyrogram
-tgcrypto
-async-timeout
-aiohttp
-psycopg2-binary
-pillow
-hachoir
-pymongo
-dnspython
