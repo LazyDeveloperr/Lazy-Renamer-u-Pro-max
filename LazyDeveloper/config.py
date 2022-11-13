@@ -34,7 +34,7 @@ except ImportError:
         FILTERS = "/filters"
         SET_THUMB = "/setthumb"
         GET_THUMB = "/getthumb"
-        CLR_THUMB = "/clrthumb"
+        CLR_THUMB = "/dltthumb"
         QUEUE = "/queue"
         MODE = "/mode"
         HELP = "/help"

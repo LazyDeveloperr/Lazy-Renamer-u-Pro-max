@@ -147,7 +147,7 @@ class RenameManeuver(DefaultManeuver):
         
         renamelog.info(thumb_path)
         renamelog.info(f"is force = {is_force}")
-        await progress.edit_text("Downloading Done Now renaming.", reply_markup=None)        
+        await progress.edit_text("Downloading Done, Now renaming.", reply_markup=None)        
 
         try:
             ndl_path = os.path.join(os.path.dirname(dl_path), new_file_name)

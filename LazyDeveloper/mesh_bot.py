@@ -1,7 +1,7 @@
 from pyrogram import Client, types
 from pyrogram.file_id import FileId
 import logging
-from LazyDeveloper.core.get_config import get_var
+from MeshRenameBot.core.get_config import get_var
 
 renamelog = logging.getLogger(__name__)
 
