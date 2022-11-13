@@ -84,12 +84,14 @@ update the config.py file inside the MeshRenameBot to change the config and comm
 `/queue` - Gives the state of your rename and the load on bot.
 
 
-[Watch Tutorial](https://github.com/LazyDeveloperr)
+- [Create Auto Filter BOT](https://www.youtube.com/watch?v=jw3e4L1u-Vo&t=22s)
+- [Create Movie Website](https://www.youtube.com/watch?v=h3Uvr15ZPnc)
+- [Create Movie Request BOT](https://www.youtube.com/watch?v=mIEv7MjLj2U&t=38s)
+- [Join Youtube](https://www.youtube.com/channel/UCY-iDra0x2hdd9PdHKcZkRw)
 
-[Join Youtube](https://github.com/LazyDeveloperr)
 
 # Credits
 
-[LazyDeveloperr](https://github.com/LazyDeveloperr)
-[Pyrogram](https://github.com/pyrogram/pyrogram)
+- [LazyDeveloperr](https://github.com/LazyDeveloperr) 
+- [Pyrogram](https://github.com/pyrogram/pyrogram)
 
