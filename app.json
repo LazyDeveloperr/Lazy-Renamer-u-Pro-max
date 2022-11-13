@@ -6,8 +6,8 @@
       "telegram"
     ],
     "success_url": "https://t.me/LazyDeveloper",
-    "website": "https://github.com/yash-dk/Mesh-RenameBot",
-    "repository": "https://github.com/yash-dk/Mesh-RenameBot",
+    "website": "https://github.com/LazyDeveloperr/Lazy-Renamer-u-Pro-max",
+    "repository": "https://github.com/LazyDeveloperr/Lazy-Renamer-u-Pro-max",
     "stack": "heroku-20",
     "env": {
         "API_HASH": {
